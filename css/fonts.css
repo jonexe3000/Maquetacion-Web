@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Playlist-Script';
+    src:url('../fonts/Playlist-Script/Playlist-Script.ttf.woff') format('woff'),
+        url('../fonts/Playlist-Script/Playlist-Script.ttf.svg#Playlist-Script') format('svg'),
+        url('../fonts/Playlist-Script/Playlist-Script.ttf.eot'),
+        url('../fonts/Playlist-Script/Playlist-Script.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Glacial-Indifference-Regular';
+    src:url('../fonts/Glacial-Indifference/Glacial-Indifference-Regular.ttf.woff') format('woff'),
+        url('../fonts/Glacial-Indifference/Glacial-Indifference-Regular.ttf.svg#Glacial-Indifference-Regular') format('svg'),
+        url('../fonts/Glacial-Indifference/Glacial-Indifference-Regular.ttf.eot'),
+        url('../fonts/Glacial-Indifference/Glacial-Indifference-Regular.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GlacialIndifference-Bold';
+    src:url('../fonts/Glacial-Indifference-Bold/GlacialIndifference-Bold.ttf.woff') format('woff'),
+        url('../fonts/Glacial-Indifference-Bold/GlacialIndifference-Bold.ttf.svg#GlacialIndifference-Bold') format('svg'),
+        url('../fonts/Glacial-Indifference-Bold/GlacialIndifference-Bold.ttf.eot'),
+        url('../fonts/Glacial-Indifference-Bold/GlacialIndifference-Bold.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open-Sans-Light';
+    src:url('../fonts/Open-Sans-Light/Open-Sans-Light.ttf.woff') format('woff'),
+        url('../fonts/Open-Sans-Light/Open-Sans-Light.ttf.svg#Open-Sans-Light') format('svg'),
+        url('../fonts/Open-Sans-Light/Open-Sans-Light.ttf.eot'),
+        url('../fonts/Open-Sans-Light/Open-Sans-Light.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
